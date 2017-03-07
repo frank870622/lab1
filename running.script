@@ -1,0 +1,6 @@
+input the number
+if n = 1 ->stop
+if n is odd -> n = 3n+1
+else -> n=n/2
+use while for loop
+
