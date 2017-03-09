@@ -1,1 +1,33 @@
+命令稿啟動於 2017年03月09日 (週四) 20時03分12秒
+[01;32mpc-65304@pc65304-BM1AF-BP1AF-BM6AF[01;34m ~/桌面/初音ミク/lab1 $[00m whoami;pwd
+pc-65304
+/home/pc-65304/桌面/初音ミク/lab1
+[01;32mpc-65304@pc65304-BM1AF-BP1AF-BM6AF[01;34m ~/桌面/初音ミク/lab1 $[00m git config-l -l
+user.email=frank870622@gmail.com
+user.name=frank870622
+core.editor=vim
+core.repositoryformatversion=0
+core.filemode=true
+core.bare=false
+core.logallrefupdates=true
+remote.origin.url=https://github.com/frank870622/lab1
+remote.origin.fetch=+refs/heads/*:refs/remotes/origin/*
+branch.master.remote=origin
+branch.master.merge=refs/heads/master
+[01;32mpc-65304@pc65304-BM1AF-BP1AF-BM6AF[01;34m ~/桌面/初音ミク/lab1 $[00m git clone script
+fatal: repository 'script' does not exist
+[01;32mpc-65304@pc65304-BM1AF-BP1AF-BM6AF[01;34m ~/桌面/初音ミク/lab1 $[00m lab1
+無 'lab1' 這個指令，是指這個嗎：
+ 'laby' 指令來自於 'laby' 套件 (universe)
+lab1：無此指令
+[01;32mpc-65304@pc65304-BM1AF-BP1AF-BM6AF[01;34m ~/桌面/初音ミク/lab1 $[00m .script[3Plab1git clone script[K[K[K[K[K[Khttps://github.com/frank870622/lab1
+Cloning into 'lab1'...
+remote: Counting objects: 15, done.[K
+remote: Compressing objects:   9% (1/11)   [Kremote: Compressing objects:  18% (2/11)   [Kremote: Compressing objects:  27% (3/11)   [Kremote: Compressing objects:  36% (4/11)   [Kremote: Compressing objects:  45% (5/11)   [Kremote: Compressing objects:  54% (6/11)   [Kremote: Compressing objects:  63% (7/11)   [Kremote: Compressing objects:  72% (8/11)   [Kremote: Compressing objects:  81% (9/11)   [Kremote: Compressing objects:  90% (10/11)   [Kremote: Compressing objects: 100% (11/11)   [Kremote: Compressing objects: 100% (11/11), done.[K
+remote: Total 15 (delta 2), reused 9 (delta 1), pack-reused 0[K
+Unpacking objects:   6% (1/15)   Unpacking objects:  13% (2/15)   Unpacking objects:  20% (3/15)   Unpacking objects:  26% (4/15)   Unpacking objects:  33% (5/15)   Unpacking objects:  40% (6/15)   Unpacking objects:  46% (7/15)   Unpacking objects:  53% (8/15)   Unpacking objects:  60% (9/15)   Unpacking objects:  66% (10/15)   Unpacking objects:  73% (11/15)   Unpacking objects:  80% (12/15)   Unpacking objects:  86% (13/15)   Unpacking objects:  93% (14/15)   Unpacking objects: 100% (15/15)   Unpacking objects: 100% (15/15), done.
+Checking connectivity... done.
+[01;32mpc-65304@pc65304-BM1AF-BP1AF-BM6AF[01;34m ~/桌面/初音ミク/lab1 $[00m exit
 
+命令稿已於 2017年03月09日 (週四) 20時04分22秒
+ 完成
